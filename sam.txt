@@ -1,7 +1,1 @@
-
-A
-B
-B
-B
-
 This is a test .txt file, adding some words, even more added
